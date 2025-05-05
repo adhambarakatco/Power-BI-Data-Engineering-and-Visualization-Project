@@ -11,6 +11,11 @@ In this milestone, we performed the following tasks:
   
 The dashboards are designed to provide insights into the Olympic Games, with a focus on medal distribution, athlete participation, performance by country, and gender comparisons.
 
+## PowerBI Sample Images:
+![image](https://github.com/user-attachments/assets/30d67ea6-73d0-4e64-bb98-89acf133d315)
+![image](https://github.com/user-attachments/assets/79cb5a98-dca0-4a67-a63e-faaaf4d4563a)
+
+
 ### Key Features:
 1. **Two Pages of Dashboards**:
    - Integrated datasets and visualizations on one page.
